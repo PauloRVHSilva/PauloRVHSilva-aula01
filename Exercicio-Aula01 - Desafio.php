@@ -31,8 +31,8 @@
 
    <H1 class='Titulo'> PHP - Atividade 01 / DESAFIO</H1>
    
-   <p> Considerando que A seja igual a 10 e B seja igual a 20, eis o seguintes cálculos</p>
-   
+   <p> Informe os valores para que possamos prosseguir com os calculos: </p>
+   <br>
  
   <form name='Informar dados' method='post' action='Exercicio-Aula01 - MontarTabela.php'>
     <label> Informe A: </label>
